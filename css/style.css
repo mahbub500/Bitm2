@@ -1,0 +1,144 @@
+.logo {
+    height: 45px;
+    width: 131px;
+    color: black;
+}
+
+.navcolor:hover {
+    background-color: #ffbf00;
+    font: 15px;
+    color: white;
+}
+
+.banner {
+    height: 385px;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 16px;
+}
+
+.text {
+    text-align: center;
+    font-size: 33px;
+    margin: 0 auto;
+    font-weight: 500;
+
+}
+
+.course {
+    height: 223PX;
+    width: 100%;
+    MARGIN-BOTTOM: 18px;
+}
+
+.content1 {
+
+    box-shadow: 0px 20px 20px 3px black;
+
+    width: 100%;
+
+    height: 450px;
+
+    /* font-weight: 900; */
+
+    margin-top: 15px;
+
+    margin-bottom: 30px;
+}
+
+.content1 p,
+h3 {
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.button {
+    margin: 0 auto;
+    height: 40px;
+    width: 121px;
+    margin-bottom: 34px;
+    overflow: hidden;
+}
+
+.banner2 {
+    background-image: url(../img/banner2.jpg);
+    width: 100%;
+    height: 290px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.About-us {
+
+    margin-top: 23px;
+    color: #27586C;
+    font-weight: 400;
+    text-align: justify;
+
+}
+
+.Profile {
+    color: #32437B;
+    text-align: center;
+    width: 100%;
+    height: 363px;
+}
+
+.trainer {
+    color: #32437B;
+    text-align: center;
+    font-size: 42px;
+    margin-top: 5px;
+    margin-bottom: 12px;
+}
+
+.Profile .circle-content {
+    width: 245px;
+    height: 157px;
+    box-shadow: 1px -1px 8px 1px black;
+    margin-top: 78px;
+    color: #32437B;
+    position: absolute;
+    text-align: center;
+}
+
+.Profile .circle-content h2 {
+
+    text-align: center;
+    margin-top: 73px;
+}
+
+.Profile .circle-content.circle_p {
+    text-align: center;
+    font-size: 17px;
+    margin-top: -19px;
+
+}
+
+.Profile .circle {
+    position: relative;
+
+}
+
+.Profile .circle img {
+    width: 166px;
+    height: 147px;
+    /* margin-left: 0px; */
+    /* margin-bottom: -7px; */
+    margin-top: -14px;
+}
+
+.banner_slider {}
+
+
+.content {
+    width: 600px;
+    margin: 15px auto;
+    
+}
+.contac{
+    margin: 15px auto;
+    
+}
+
